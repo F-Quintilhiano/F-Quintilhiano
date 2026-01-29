@@ -2,6 +2,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=32&duration=5000&pause=2000&color=E6E6E6&center=true&vCenter=true&width=700&lines=01000110+01100001+01100010+01110010+01101001+01100011+01101001+01101111;01000110+01100001+01100010+01110010+01101001+01100011+01101001+01101111" />
 </p>
 
+<hr style="border: none; border-top: 1px solid #111111;">
 
 
 
@@ -49,3 +50,6 @@ Olá! Eu sou o Fabricio Quintilhiano, estudante de Engenharia da Computação no
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
 </div>
+
+<hr style="border: none; border-top: 1px solid #111111;">
+
