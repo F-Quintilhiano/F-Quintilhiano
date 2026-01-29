@@ -43,12 +43,17 @@ Olá! Eu sou o Fabricio Quintilhiano, estudante de Engenharia da Computação no
 
 <h3 align="left">Contato</h3>
 <div>
-  <a href="fabricioqbraga@hotmail.com">
-    <img src="https://img.shields.io/badge/-email-%23333?style=for-the-badge&logo=gmail&logoColor=white">
+  <a href="mailto:fabricioqbraga@hotmail.com">
+    <img src="https://img.shields.io/badge/-Email-%23333?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
-  <a href="www.linkedin.com/in/fabrício-quintilhiano-820820313" target="_blank">
+
+  <a href="https://www.linkedin.com/in/fabr%C3%ADcio-quintilhiano-820820313" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
+<a href="https://instagram.com/fabricioquintilhiano" target="_blank">
+  <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+</a>
+
 </div>
 
 <hr style="border: none; border-top: 1px solid #111111;">
