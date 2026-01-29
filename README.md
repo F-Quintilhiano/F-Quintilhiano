@@ -5,9 +5,9 @@
 
 
 
-Olá! Eu sou o Fabricio Quintilhiano, tenho 24 anos e sou estudante de Engenharia da Computação no CEFET-MG.
+Olá! Eu sou o Fabricio Quintilhiano, estudante de Engenharia da Computação no CEFET-MG.
 
-- 🎓 Graduando em Engenharia da Computação
+
 - 💻 Foco em desenvolvimento backend, estruturas de dados e sistemas.
 - 📂 Meus projetos estão disponíveis nos meus [repositórios](https://github.com/F-Quintilhiano)
 <br><br>
