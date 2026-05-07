@@ -4,7 +4,7 @@
 <hr style="border: none; border-top: 1px solid #111111;">
 
 Olá! Eu sou o Fabricio Quintilhiano, estudante de Engenharia da Computação no CEFET-MG.
-- 💻 Foco em desenvolvimento backend, estruturas de dados e sistemas.
+- 💻 Foco em desenvolvimento backend, estruturas de dados, sistemas e banco de dados.
 - 📂 Meus projetos estão disponíveis nos meus [repositórios](https://github.com/F-Quintilhiano)
 
 <br>
